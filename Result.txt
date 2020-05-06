@@ -1,0 +1,5 @@
+Cube:
+SideCoords: A(0.0, 0.0); B(-3.0, 0.0); C(-3.0, 3.0); D(0.0, 3.0)
+CubeArea: 96.000000
+CubeVolume: 64.000000
+SideCoords after 90 degree rotation: A(0.0, 0.0); B(-0.0, -3.0); C(-3.0, -3.0); D(-3.0, 0.0)
